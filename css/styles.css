@@ -1,15 +1,26 @@
-body {background-color: grey;
-font-style: italic;
-font-family: sans-serif;
+body {
+  background-color: grey;
+  font-style: italic;
+  font-family: sans-serif;
 }
 
-h1 {color: blue;
-  text-align: center
+h1 {
+  color: blue;
+  text-align: center;
 
 }
 
-h2 {color:blue;
-text-align: center;}
+h2 {
+  color:blue;
+  text-align: left;
+
+}
+
+h3 {
+  color:blue;
+  text-align: left;
+
+}
 
 p{
   font-family: courier;
@@ -22,12 +33,27 @@ line-height: 20px;
 
 }
 
+ol {
+font-size: 20px;
+line-height: 20px;
+
+}
+
 img {
 
   float:right;
 }
 
-.class1 {font-style: italic;
+.class1 {
+  font-size: 30px;
+  line-height: 30px
+  font-style: italic;
   font-family: cursive;
+
+}
+
+.class2 {
+  font-size: italic
+  font-family:sans-serif;
 
 }
