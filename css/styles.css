@@ -42,9 +42,10 @@ line-height: 20px;
 img {
 
   float:right;
+  
 }
 
-.container {
+.container-fluid {
   text-align: center;
 }
 
