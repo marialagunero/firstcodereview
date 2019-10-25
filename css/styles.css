@@ -5,6 +5,7 @@ body {
 }
 
 h1 {
+  border-style: solid;
   color: blue;
   text-align: center;
 
@@ -18,10 +19,21 @@ h2 {
 
 h3 {
   color:blue;
-  text-align: left;
+  display: center
 
 }
 
+h4 {
+  color: blue
+  diesplay:left;
+
+}
+
+.intro {
+  font-size: italic;
+  text-align:center;
+
+}
 p{
   font-family: courier;
 }
@@ -45,14 +57,15 @@ line-height: 20px;
 }
 
 .class1 {
- display: flex;
- text-align: center;
- align-items: center;
+  color: blue;
+  font-size: italic;
+  font-family:sans-serif;
+  margin: 20px;
+  padding: 40px;
+}
 
 }
 
-.class2 {
-  font-size: italic
-  font-family:sans-serif;
-
+#projects {
+  color: blue;
 }
