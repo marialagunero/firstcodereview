@@ -2,10 +2,8 @@
 
 ###_First Code Review: Portfolio_
 
-http://github.com - automatic!
-[GitHub](http://github.com)
 
-https://marialagunero.github.io/firstcodereview/
+[My Portfolio](https://marialagunero.github.io/firstcodereview/)
 
 ### By Maria Lagunero
 
