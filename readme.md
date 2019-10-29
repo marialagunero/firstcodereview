@@ -1,6 +1,6 @@
-#_Portfolio_
+# _Portfolio_
 
-###_First Code Review: Portfolio_
+### _First Code Review: Portfolio_
 
 
 [My Portfolio](https://marialagunero.github.io/firstcodereview/)
@@ -33,4 +33,4 @@ _HTML, Bootstrap, CSS, README.md_
 
 *MIT*
 
-####Copyright 2019 Maria Lagunero
+#### Copyright 2019 Maria Lagunero
