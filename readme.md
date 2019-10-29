@@ -9,7 +9,7 @@
 
 ### Description
 
-_This page is our first code review. This is the starting of our work Portfolio. In it is information about me, and projects/repositories that are viewable on GitHub._
+_This page is my first code review. This is the starting of my work Portfolio. In it is information about me, and projects/repositories that are viewable on GitHub._
 
 
 ## Program Setup Instructions
